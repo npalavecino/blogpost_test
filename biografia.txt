@@ -1,1 +1,2 @@
- Mi nombre es Nicolas Palavecino. Soy estudiante de platzi y en mis tiempos libres juego tenis, escribo libors y hago cosas raras con raspberry pis
+ Mi nombre es Nicolas Palavecino. Soy estudiante de platzi y en mis tiempos libres juego tenis, escribo libros y hago cosas raras con raspberry pis.
+Estoy en proceso de ser SRE y comenzar la partes mas importante de mi carrera.
